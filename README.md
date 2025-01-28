@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @siddhi070306
+- 👋 Hi, I’m Siddhi Bhosale
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning Mern Stack
 - 💞️ I’m looking to collaborate on projects on web devlopment
 - 📫 How to reach me siddhib06@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: travelling,cycling,treking...
